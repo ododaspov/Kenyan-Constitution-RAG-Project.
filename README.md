@@ -13,7 +13,5 @@ It allows you to upload a PDF, index its contents, and query it in natural langu
 - 🤖 Use **Groq LLMs** for question answering  
 - ❓ Ask natural language questions and get context-aware answers  
 
----
 
-## 📂 Project Structure
 
